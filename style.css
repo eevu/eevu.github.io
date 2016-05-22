@@ -450,14 +450,12 @@ body {
 	width: 100%;
 	padding: 1.8em 1.3em;
 	text-align: center;
-	font-family: 'Raleway', sans-serif;
-	font-size: .8em;
 	background: #fff;
 }
 
 .portfolio__project__name {
 	font-family: 'Raleway', sans-serif;
-	font-size: 1.3em;
+	font-size: 1.1em;
 	margin: 0;
 	margin-bottom: .2em;
 }
