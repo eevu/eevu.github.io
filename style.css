@@ -65,7 +65,7 @@ textarea {
 }
 
 .text-bold {
-	font-family: 'Raleway';
+	font-family: 'Raleway', sans-serif;
 	font-weight: 700;
 }
 
@@ -163,7 +163,7 @@ body {
 
 .header__nav__item.is-active > a {
 	font-family: 'Raleway', sans-serif;
-  font-weight: 700;
+  	font-weight: 700;
 }
 
 .header__nav__item.is-active > a:hover {
